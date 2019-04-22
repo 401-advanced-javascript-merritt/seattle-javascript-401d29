@@ -16,7 +16,7 @@ Refer to *Getting Started* in [lab-instructions.md](../../../reference/submissio
 
 Refactor the provided application (`app.js`) using best practices for modularization, asynchronous file access, and test-ability.
 
-Connect the application (app.js) to a `socker.io` server and emit messages related to file access.  Connect a new application (`logger`) to the server and log all file activity.
+Connect the application (app.js) to a `socket.io` server and emit messages related to file access.  Connect a new application (`logger`) to the server and log all file activity.
 
 ### Assignment
 * The application must accept a filename as a command line parameter
